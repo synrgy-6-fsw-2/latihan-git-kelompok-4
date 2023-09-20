@@ -14,3 +14,4 @@ Anggota Kelompok:
 - Theodora Rini Ketaren
 - Randi Budi Prananda
 - Aris Apriyanto
+- Agnes Nababan
